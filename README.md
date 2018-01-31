@@ -6,4 +6,4 @@ new streaming is using web scrabing to get the headline of CNN last 50 news with
 ## Environment setup
 python 2.7
 
-spark 
+pyspark 2.2.1
